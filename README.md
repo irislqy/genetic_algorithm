@@ -1,6 +1,8 @@
 # Genetic Algorithm
 
-![Screenshot](https://github.com/irislqy/genetic_algorithm/1.png)
+<div align="center">
+    <img src="/1.jpg" width="400px"</img> 
+</div>
 
 
 This project applied Genetic Algorithm in a salesman travel problem to optimize the path across 50 state capitols. 
