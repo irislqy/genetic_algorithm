@@ -1,8 +1,6 @@
 # Genetic Algorithm
 
-<div align="center">
-    <img src="/1.jpg" width="400px"</img> 
-</div>
+![Screenshot](1.png)
 
 
 This project applied Genetic Algorithm in a salesman travel problem to optimize the path across 50 state capitols. 
