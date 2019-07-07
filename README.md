@@ -1,6 +1,6 @@
 # Genetic Algorithm
 
-![](https://raw.githubusercontent.com/irislqy/genetic_algorithm/branch/path/to/1.png)
+![]((https://github.com/irislqy/genetic_algorithm/1.png))
 
 
 This project applied Genetic Algorithm in a salesman travel problem to optimize the path across 50 state capitols. 
@@ -12,6 +12,7 @@ Applications of this route optimization problem in the industry can be:
   3. Package Good Delivery Service, etc
 
 My Project Link: https://github.com/irislqy/genetic_algorithm/blob/master/Route_Finder_Optimization.ipynb
+
 Sources: https://github.com/ezstoltz/genetic-algorithm
 
 
